@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/economic-kitty-zf5hr.blank-lbddu8xo",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve ox7mCvx9V5Cjao3k5cwm --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
